@@ -8,7 +8,7 @@ description: Data Science is a “concept to unify statistics, data analysis,
   from many fields within the context of mathematics, statistics, computer
   science, and information science.
 featuredpost: true
-featuredimage: http://mykraftyskills.live/static/eee935cf5a3512bfdb6611ecdf9b1c39/b06ae/banner.png
+featuredimage: /img/banner.png
 tags:
   - DataScience
 ---
